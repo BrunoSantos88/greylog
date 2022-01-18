@@ -1,0 +1,3 @@
+instalando rsyslog
+
+apt-get install rsyslog -y 
